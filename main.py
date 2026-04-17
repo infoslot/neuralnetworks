@@ -5,7 +5,9 @@ import pandas as pd
 import requests
 import matplotlib.pyplot as plt
 
-
+# This code was created when following the MIT Course on deeplearning
+# https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/video_galleries/lecture-videos/
+#
 # colabs
 # https://colab.research.google.com/drive/1S2tt-klwRH4czQcjsbLWISG9KPppUVEr?usp=sharing
 
