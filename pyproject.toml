@@ -1,0 +1,14 @@
+[project]
+name = "neural"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "pydot>=4.0.1",
+    "pyqt6>=6.11.0",
+    "requests>=2.33.1",
+    "tensorflow>=2.21.0",
+]
